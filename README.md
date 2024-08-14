@@ -1,6 +1,6 @@
 # 🌟 Shoe Shop Landing Page 🌟
 
-Welcome to Shop Landing Page Repository! This repository houses the code for our sleek and user-friendly landing page, crafted to highlight our brand and product offerings. Designed with a modern and responsive layout, this page ensures a seamless user experience across all devices.
+Welcome to Shoe Shop Landing Page Repository! This repository houses the code for our sleek and user-friendly landing page, crafted to highlight our brand and product offerings. Designed with a modern and responsive layout, this page ensures a seamless user experience across all devices.
 
 ## 🛠️ Tech Stack
 
