@@ -21,10 +21,6 @@ Welcome to the Hello Shoes (PVT) LTD. Landing Page Repository! This repository h
 
 ## 📸 Screenshots
 
-### Theme
-
-<img src="ss/Theme.png" alt="Theme">
-
 ### Home
 
 <img src="ss/Home.png" alt="Home">
