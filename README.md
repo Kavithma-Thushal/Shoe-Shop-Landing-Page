@@ -1,6 +1,5 @@
 # 🌟 Hello Shoes Landing Page
 
-About
 Welcome to the Hello Shoes (PVT) LTD. Landing Page Repository! This repository houses the code for our sleek and user-friendly landing page, crafted to highlight our brand and product offerings. Designed with a modern and responsive layout, this page ensures a seamless user experience across all devices.
 
 ## 🛠️ Tech Stack
