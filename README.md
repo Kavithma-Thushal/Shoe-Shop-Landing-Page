@@ -16,7 +16,6 @@ Welcome to the Hello Shoes (PVT) LTD. Landing Page Repository! This repository h
 ✅ **Product Highlights** : Showcase of featured shoes with detailed descriptions and prices.<br/>
 ✅ **About Section** : Brief introduction to the brand and its values.<br/>
 ✅ **Testimonials** : Customer reviews to build trust and credibility.<br/>
-✅ **Call to Action** : Clear and prominent call-to-action buttons to drive user engagement.<br/>
 
 ## 📸 Screenshots
 
