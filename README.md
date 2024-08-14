@@ -1,6 +1,6 @@
-# 🌟 Hello Shoes Landing Page
+# 🌟 Shoe Shop Landing Page 🌟
 
-Welcome to the Hello Shoes (PVT) LTD. Landing Page Repository! This repository houses the code for our sleek and user-friendly landing page, crafted to highlight our brand and product offerings. Designed with a modern and responsive layout, this page ensures a seamless user experience across all devices.
+Welcome to Shop Landing Page Repository! This repository houses the code for our sleek and user-friendly landing page, crafted to highlight our brand and product offerings. Designed with a modern and responsive layout, this page ensures a seamless user experience across all devices.
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@ Welcome to the Hello Shoes (PVT) LTD. Landing Page Repository! This repository h
 
 ## 🔐 Getting Started
 
-1. Clone the repository `git clone https://github.com/Kavithma-Thushal/Hello-Shoes-Landing-Page.git`
+1. Clone the repository `git clone https://github.com/Kavithma-Thushal/Shoe-Shop-Landing-Page.git`
 2. Navigate to the project directory `cd Hello-Shoes-Landing Page`
 3. Open the `index.html` file in your preferred web browser
 
